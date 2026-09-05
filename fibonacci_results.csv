@@ -1,0 +1,13 @@
+Algorithm,Input_n,Execution_Time_ms,Memory_Usage_KB
+Fibonacci Iterative,10,0.0023,0.0
+Fibonacci Iterative,20,0.0013,0.0
+Fibonacci Iterative,25,0.001,0.0
+Fibonacci Iterative,30,0.0011,0.0
+Fibonacci Iterative,32,0.0012,0.0
+Fibonacci Iterative,34,0.0013,0.0
+Fibonacci Recursive,10,0.0082,0.0
+Fibonacci Recursive,20,0.9442,0.0
+Fibonacci Recursive,25,10.1238,0.0
+Fibonacci Recursive,30,107.3606,0.0
+Fibonacci Recursive,32,286.3842,0.0
+Fibonacci Recursive,34,750.063,0.0
